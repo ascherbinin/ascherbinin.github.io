@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://github.com/ascherbinin/ascherbinin.github.io/releases/download/v3.19/Investment.ipa</string>
+                    <string>https://github.com/ascherbinin/ascherbinin.github.io/releases/download/v8.0/app.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>app.investment.ru</string>
+                <string>ru.sinara.app</string>
                 <key>bundle-version</key>
-                <string>3.19</string>
+                <string>8.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>Инвестиции</string>
+                <string>Банк Синара</string>
             </dict>
         </dict>
     </array>

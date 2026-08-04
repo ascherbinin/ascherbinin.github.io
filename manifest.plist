@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://github.com/ascherbinin/ascherbinin.github.io/releases/download/v1.1.1/app.ipa</string>
+                    <string>https://github.com/ascherbinin/ascherbinin.github.io/releases/download/v8.0/app.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>ru.grino.app</string>
+                <string>ru.sinara.app</string>
                 <key>bundle-version</key>
-                <string>1.1.1</string>
+                <string>8.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>Grino</string>
+                <string>Синара Банк</string>
             </dict>
         </dict>
     </array>
